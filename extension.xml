@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.0" release="8" logo="logo.png">
+	<announcement text="Simple dark theme to adjustments for Nation Armies and Nation Manager" font="emotefont" icon="sidebar_icon_recordtype_main" />
+
+	<!-- Attributes -->
+	<properties>
+		<name>Theme: Nation Builder - Dark</name>
+		<version>1.0.0</version>
+      <author>SgtWhy</author>
+		<description>simple theme to adjust for the CoreRPG theme changes</description>
+		<loadorder>1001</loadorder>
+	</properties>
+
+	<base>
+
+      <!-- FOR FUTURE USE
+      <includefile source="graphics\graphics_icons_nm.xml" />
+      <includefile source="graphics\graphics_icons_na.xml" />
+      <includefile source="graphics\graphics_frames_nm.xml" />
+      <includefile source="graphics\graphics_frames_na.xml" />
+      -->
+
+      <includefile source="graphics\graphics_sidebar.xml" />
+      <includefile source="graphics\graphics_tabs.xml" />
+		
+	</base>
+</root>
