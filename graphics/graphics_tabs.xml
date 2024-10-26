@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+
+<!-- nation manager -->
+<icon name="tab_feats" file="graphics/tabs/tab_feats_dark.png" />
+<icon name="tab_factions" file="graphics/tabs/tab_factions_dark.png" />
+<icon name="tab_bldgs" file="graphics/tabs/tab_bldgs_dark.png" />
+<icon name="tab_upkeep" file="graphics/tabs/tab_upkeep_dark.png" />
+<icon name="tab_commerce" file="graphics/tabs/tab_commerce_dark.png" />
+<icon name="tab_leadership" file="graphics/tabs/tab_leadership_dark.png" />
+<icon name="tab_region" file="graphics/tabs/tab_region_dark.png" />
+<icon name="tab_civic" file="graphics/tabs/tab_civic_dark.png" />
+<icon name="tab_events" file="graphics/tabs/tab_events_dark.png" />
+<icon name="tab_actions" file="graphics/tabs/tab_actions_dark.png" />
+<icon name="tab_inventory" file="graphics/tabs/tab_inventory_dark.png" />
+<icon name="tab_main" file="graphics/tabs/tab_main_dark.png" />
+<icon name="tab_inventory" file="graphics/tabs/tab_inventory_dark.png" />
+<icon name="tab_log" file="graphics/tabs/tab_log_dark.png" />
+<icon name="tab_skills" file="graphics/tabs/tab_skills_dark.png" />
+
+<!-- nation armies -->
+<icon name="tab_gear" file="graphics/tabs/tab_gear_dark.png" />
+<icon name="tab_tactics" file="graphics/tabs/tab_tactics_dark.png" />
+<icon name="tab_conditions" file="graphics/tabs/tab_conditions_dark.png" />
+
+</root>

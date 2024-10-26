@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+
+<!-- Nation Manager -->
+<icon name="sidebar_icon_recordtype_main" file="graphics/sidebar/nm_icon_dark.png" />
+<icon name="sidebar_icon_recordtype_turns" file="graphics/sidebar/button_turn_dark.png" />
+<icon name="sidebar_icon_recordtype_nation_gm" file="graphics/sidebar/button_GM_dark.png" />
+
+<!-- nation armies -->
+<icon name="sidebar_icon_recordtype_armyct" file="graphics/sidebar/action_one_dark.png" />
+<icon name="sidebar_icon_recordtype_armies" file="graphics/sidebar/na_action_dark.png" />
+<icon name="sidebar_icon_recordtype_sbcategory" file="graphics/sidebar/link_ct_dark.png" />
+
+</root>

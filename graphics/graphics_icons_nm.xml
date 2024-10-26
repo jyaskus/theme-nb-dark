@@ -1,0 +1,57 @@
+
+<!-- nation manager -->
+
+  <!-- ICONS -->
+  <icon name="NM_icon" file="graphics/sidebar/nm_icon.png" />
+
+  <!-- work sites -->
+  <icon name="icon_food" file="graphics/icons/wheat.png" />
+
+  <!-- weather -->
+  <icon name="NM_clouds" file="graphics/icons/clouds.png" />
+  <icon name="NM_clouds_down" file="graphics/icons/clouds.png" />
+
+  <!-- when gaining kingdom RUIN -->
+  <icon name="icon_ruin" file="graphics/icons/fist.png" />
+
+  <!-- coins button icon for trade -->
+  <icon name="coins_icon" file="graphics/icons/coin_circle.png" />
+
+  <!-- xp -->
+  <icon name="exp" file="graphics/icons/xp.png" />
+
+  <!-- Plus Minus button -->
+  <icon name="ability_modifiers" file="graphics/icons/nm_modifiers.png" />
+
+  <!-- on off buttons -->
+  <icon name="button_check_on" file="graphics/buttons/button_checkon.png" />
+  <icon name="button_check_off" file="graphics/buttons/button_checkoff.png" />
+
+  <!-- favorites -->
+  <icon name="button_fav_up" file="graphics/buttons/prof_up.png" />
+  <icon name="button_fav_down" file="graphics/buttons/prof_down.png" />
+
+  <!-- icons for each commodity -->
+  <icon name="ws_icon_food" file="graphics/tokens/ws_food.png" />
+  <icon name="ws_icon_lumber" file="graphics/tokens/ws_lumber.png" />
+  <icon name="ws_icon_ore" file="graphics/tokens/ws_ore.png" />
+  <icon name="ws_icon_luxury" file="graphics/tokens/ws_luxury.png" />
+  <icon name="ws_icon_stone" file="graphics/tokens/ws_stone.png" />
+
+  <!-- action results degree -->
+  <icon name="result_critsucc" file="graphics/icons/poi_blue.png" />
+  <icon name="result_succ" file="graphics/icons/poi_green.png" />
+  <icon name="result_fail" file="graphics/icons/poi_yellow.png" />
+  <icon name="result_critfail" file="graphics/icons/poi_red.png" />
+
+  <!-- for 20 rolls -->
+  <icon name="NM_thumbsup" file="graphics/icons/thumbsup.png" />
+
+  <!-- wizard buttons  -->
+  <icon name="dot_green" file="graphics/icons/dot_green.png" />
+  <icon name="dot_red" file="graphics/icons/dot_red.png" />
+
+  <!-- chat messages for food consumption  -->
+  <icon name="circle_green" file="graphics/icons/circle_green.png" />
+  <icon name="circle_green_food" file="graphics/icons/circle_green_food.png" />
+  <icon name="circle_red_food" file="graphics/icons/circle_red_food.png" />

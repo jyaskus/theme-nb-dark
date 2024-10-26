@@ -1,0 +1,21 @@
+
+<!-- Nation Armies -->
+  
+<!-- war actions cost -->
+<icon name="na_war_action_cost_free" file="graphics/icons/action_free.png" />
+<icon name="na_war_action_cost_one" file="graphics/icons/action_one.png" />
+<icon name="na_war_action_cost_two" file="graphics/icons/action_two.png" />
+<icon name="na_war_action_cost_three" file="graphics/icons/action_three.png" />
+<icon name="na_war_action_cost_reaction" file="graphics/icons/action_reaction.png" />
+
+<!-- action results degree -->
+<icon name="result_critsucc" file="graphics/icons/poi_blue.png" />
+<icon name="result_succ" file="graphics/icons/poi_green.png" />
+<icon name="result_fail" file="graphics/icons/poi_yellow.png" />
+<icon name="result_critfail" file="graphics/icons/poi_red.png" />
+
+<!-- combat tracker factions -->
+<icon name="ct_faction_neutral" file="graphics/icons/ct_faction_neutral.png" />		
+<icon name="ct_faction_empty" file="graphics/icons/ct_faction_empty.png" />
+<icon name="ct_faction_foe" file="graphics/icons/ct_faction_foe.png" />
+<icon name="ct_faction_friend" file="graphics/icons/ct_faction_friend.png" />

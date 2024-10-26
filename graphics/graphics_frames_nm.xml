@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>
+
+    <!-- data sheet frames-->
+    <framedef name="ref-block-blue">
+      <bitmap file="graphics/frames/refblock_blue.png" />
+      <offset>100,30,100,30</offset>
+    </framedef>
+    <framedef name="ref-block-green">
+      <bitmap file="graphics/frames/refblock_green.png" />
+      <offset>100,30,100,30</offset>
+    </framedef>
+    <framedef name="ref-block-brown">
+		  <bitmap file="graphics/frames/refblock_brown.png" />
+		  <offset>100,30,100,30</offset>
+	  </framedef>
+
+    <!-- character sheet backgrounds -->
+    <framedef name="charsheet_blue_hex">
+      <bitmap file="graphics/frames/charsheet_blue_hex.png" />
+		  <offset>50,50,45,45</offset>
+		  <insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+    <framedef name="charsheet_green_hex">
+      <bitmap file="graphics/frames/charsheet_green_hex.png" />
+		  <offset>50,50,45,45</offset>
+		  <insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+    <framedef name="charsheet_tan_hex">
+      <bitmap file="graphics/frames/charsheet_tan_hex.png" />
+		  <offset>50,50,45,45</offset>
+		  <insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+
+    <!-- group boxes-->
+    <framedef name="groupbox_brown">
+		  <bitmap file="graphics/frames/groupbox_brown.png" />
+		  <offset>18,18,17,17</offset>
+	  </framedef>
+    <framedef name="groupbox_red">
+		  <bitmap file="graphics/frames/groupbox_red.png" />
+		  <offset>18,18,17,17</offset>
+	  </framedef>
+    <framedef name="groupbox_green">
+		  <bitmap file="graphics/frames/groupbox_green.png" />
+		  <offset>18,18,17,17</offset>
+	  </framedef>
+    <framedef name="groupbox_blue">
+		  <bitmap file="graphics/frames/groupbox_blue.png" />
+		  <offset>18,18,17,17</offset>
+	  </framedef>
+    <framedef name="groupbox_blue_hex">
+		  <bitmap file="graphics/frames/groupbox_blue_hex.png" />
+		  <offset>18,18,17,17</offset>
+	  </framedef>
+
+    <!-- data frames  -->
+    <framedef name="field_light">
+		  <bitmap file="graphics/frames/field_light.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+	  <framedef name="field_dark">
+	  	<bitmap file="graphics/frames/field_dark.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+
+    <!-- title frames-->
+    <framedef name="window_title">
+		  <bitmap file="graphics/frames/window_title.png" />
+		  <offset>40,0,50,0</offset>
+	  </framedef>
+
+    <framedef name="button_up">
+		  <bitmap file="graphics/frames/button_up.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+
+     <!-- frames for each commodity -->
+    <framedef name="frame_sheet_green">
+      <bitmap file="graphics/frames/frame_sheet_green.png" />
+      <offset>37,16,14,17</offset>
+    </framedef>
+    <framedef name="frame_sheet_yellow">
+      <bitmap file="graphics/frames/frame_sheet_yellow.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_sheet_tan">
+		  <bitmap file="graphics/frames/frame_sheet_tan.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_sheet_red">
+		  <bitmap file="graphics/frames/frame_sheet_red.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_sheet_blue">
+		  <bitmap file="graphics/frames/frame_sheet_blue.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+
+</root>    

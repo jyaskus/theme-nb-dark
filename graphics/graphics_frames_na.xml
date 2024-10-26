@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root>
+
+		<!-- AC frame -->
+		<framedef name="frame_armorclass">
+		  <bitmap file="graphics/frames/icon_ac.png" />
+		  <topleft rect="0,0,30,33" />
+	  </framedef>
+		<framedef name="frame_wounds">
+		  <bitmap file="graphics/frames/wounds.png" />
+		  <topleft rect="0,0,30,33" />
+	  </framedef>
+
+	  <!-- FRAMES -->
+		<!-- faction frames-->
+		<framedef name="frame_faction_friend">
+      <bitmap file="graphics/frames/faction_friend.png" />
+      <offset>37,16,14,17</offset>
+    </framedef>
+ 		<framedef name="frame_faction_friend_active">
+      <bitmap file="graphics/frames/faction_friend_active.png" />
+      <offset>37,16,14,17</offset>
+    </framedef>
+    <framedef name="frame_faction_neutral">
+      <bitmap file="graphics/frames/faction_neutral.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_faction_neutral_active">
+      <bitmap file="graphics/frames/faction_neutral_active.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_faction_foe">
+		  <bitmap file="graphics/frames/faction_foe.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_faction_foe_active">
+		  <bitmap file="graphics/frames/faction_foe_active.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_faction_unk">
+		  <bitmap file="graphics/frames/faction_unk.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+    <framedef name="frame_faction_unk_active">
+		  <bitmap file="graphics/frames/faction_unk_active.png" />
+		  <offset>37,16,14,17</offset>
+	  </framedef>
+
+    <!-- window title bar -->
+		<framedef name="window_title">
+		  <bitmap file="graphics/frames/window_title.png" />
+		  <offset>40,0,50,0</offset>
+	  </framedef>
+
+		<!-- char sheets -->
+	  <framedef name="charsheet_blue">
+      <bitmap file="graphics/frames/charsheet_blue_hex.png" />
+		  <offset>50,50,45,45</offset>
+		  <insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+    <framedef name="charsheet_green">
+      <bitmap file="graphics/frames/charsheet_green_hex.png" />
+		  <offset>50,50,45,45</offset>
+		  <insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+    <framedef name="charsheet_red">
+      <bitmap file="graphics/frames/charsheet_red_hex.png" />
+		 	<offset>50,50,45,45</offset>
+			<insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+    <framedef name="charsheet_tan">
+      <bitmap file="graphics/frames/charsheet_tan_hex.png" />
+			<offset>50,50,45,45</offset>
+		 	<insideoffset>0,0,7,7</insideoffset>
+	  </framedef>
+      <framedef name="charsheet_hex">
+      <bitmap file="graphics/frames/charsheet_hex.png" />
+		 	<offset>50,50,45,45</offset>
+		 	<insideoffset>0,0,7,7</insideoffset>
+	   </framedef>
+
+     <!-- text line background -->
+	  <framedef name="ref-block-blue">
+			<bitmap file="graphics/frames/refblock_blue.png" />
+		 	<offset>100,30,100,30</offset>
+		</framedef>
+
+    <!-- group boxes-->
+		<framedef name="group_box">
+		  <bitmap file="graphics/frames/group_box.png" />
+		  <offset>18,18,17,17</offset>
+	  </framedef>
+	  <framedef name="ct_group_box">
+		  <bitmap file="graphics/frames/ct_groupbox.png" />
+		  <offset>19,22,20,24</offset>
+	  </framedef>
+
+    <!-- data fields -->
+		<framedef name="field_light">
+		  <bitmap file="graphics/frames/field_light.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+	  <framedef name="field_dark">
+	    <bitmap file="graphics/frames/field_dark.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+	  <framedef name="fielddark_red">
+	    <bitmap file="graphics/frames/fielddark_red.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+	  <framedef name="fielddark_blue">
+	    <bitmap file="graphics/frames/fielddark_blue.png" />
+		  <offset>12,12,12,12</offset>
+	  </framedef>
+
+    <!-- ability bonus -->
+		<framedef name="abilityscore_dark">
+			<bitmap file="graphics/frames/abilityscore_dark.png" />
+    	<offset>7,7,7,7</offset>
+  	</framedef>
+
+</root>
